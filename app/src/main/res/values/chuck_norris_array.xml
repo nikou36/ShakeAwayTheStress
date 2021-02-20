@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="chuckArray">
+        <item>@drawable/chuck1</item>
+        <item>@drawable/chuck2</item>
+        <item>@drawable/chuck4</item>
+        <item>@drawable/chuck5</item>
+    </array>
+
+</resources>

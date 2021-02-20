@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="jokeArray">
+        <item>@drawable/joke1</item>
+        <item>@drawable/joke2</item>
+        <item>@drawable/joke3</item>
+        <item>@drawable/joke4</item>
+    </array>
+</resources>

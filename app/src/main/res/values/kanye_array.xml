@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="kanyeArray">
+        <item>@drawable/kanye1</item>
+        <item>@drawable/kanye2</item>
+        <item>@drawable/kanye3</item>
+        <item>@drawable/kanye4</item>
+    </array>
+</resources>

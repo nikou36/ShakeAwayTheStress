@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShakeAwayTheStress</string>
+    <string name="randomJokeGET">https://official-joke-api.appspot.com/random_joke</string>
+    <string name="chuckNorrisGET">https://api.chucknorris.io/jokes/random</string>
+    <string name="affirmationsGET">https://www.affirmations.dev/</string>
+    <string name="adviceGET">https://api.adviceslip.com/advice</string>
+    <string name="kanyeGET">https://api.kanye.rest/</string>
+    <string name="geekGET">https://geek-jokes.sameerkumar.website/api?format=json</string>
+</resources>

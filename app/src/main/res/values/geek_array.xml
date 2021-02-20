@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="geekArray">
+        <item>@drawable/geek1</item>
+        <item>@drawable/geek2</item>
+        <item>@drawable/geek3</item>
+        <item>@drawable/geek4</item>
+    </array>
+</resources>

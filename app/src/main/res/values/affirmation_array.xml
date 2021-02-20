@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="affirmArray">
+        <item>@drawable/affirm1</item>
+        <item>@drawable/affirm2</item>
+        <item>@drawable/affirm3</item>
+        <item>@drawable/affirm4</item>
+    </array>
+</resources>
